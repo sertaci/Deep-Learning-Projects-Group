@@ -1,7 +1,7 @@
 # Deep Learning Projects Group
 This project is a combination of the deep learning projects by [Yuhacel](https://github.com/Yuhacel), [sertaci](https://github.com/sertaci), and [Furkan-del](https://github.com/Furkan-del) 
 
-## Global-AI-Hub-Bootcamp-Deep-Learning-Project
+## Global AI Hub Bootcamp Deep Learning Project
 
 ![logo_quality_min png](https://user-images.githubusercontent.com/74237094/193462506-1db63350-7f10-4bbe-ace9-bb623a2e64be.jpg)
 
